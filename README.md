@@ -8,10 +8,7 @@
    Tests/testing/testing_app
    
    3.1 Unit test: Tests/testing/testing_app/test/counter_unit_test.dart
-   
    3.2 Widget tests: Tests/testing/testing_app/test/favorites_widget_test.dart & Tests/testing/testing_app/test/home_widget_test.dart
-   
    3.3 Integration test: Tests/testing/testing_app/integration_test/app_test.dart
-   
    3.4 Performance test: Tests/testing/testing_app/integration_test/perf_test.dart
 
