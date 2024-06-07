@@ -1,3 +1,5 @@
+Note: please note that the below development activities has screenshot folders within them exposing the progress through the process and results for test-related ones.
+
 1. Creation of sample counter app for android :
    test_drive_Android/lib/main.dart
 
